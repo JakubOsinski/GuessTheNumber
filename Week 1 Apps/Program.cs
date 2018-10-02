@@ -7,6 +7,9 @@ namespace Week_1_Apps
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!");
+
+
             Console.ReadLine();
         }
     }
